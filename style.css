@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    width: 100vw;
+    height: 65vh;
+    display: flex;
+    justify-content: center;
+    background: #dc3535;
+    color: #FFE15D;
+}
+.header_section{
+    width: 90%;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+.header_title{
+    text-align: justify;
+    font-size: 1.25rem;
+}
+span{
+    font-size: 1.9rem;
+}
+.header_video{
+    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+}
+.header_subtitle{
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+i{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.map_section{
+    width: 100vw;
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    background: #ffffff;
+    color: #dc3535;
+}
+.second_section{
+    width: 90%;
+}
+.second_heading{
+    text-align: justify;
+    font-size: 1.25rem;   
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.map{
+    height: 50vh;
+    width: 100%;
+}
+.map_data{
+    width: 100%;
+}
+
+main{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #dc3535;
+    color: #FFE15D;
+}
+.join_section{
+    width: 90%;
+}
+.join_title{
+    text-align: justify;
+    font-size: 1.25rem;
+}
+.join_subtitle{
+    font-size: 0.95rem;
+    text-align: justify;
+}
+button{
+    width: 130px;
+    height: 35px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    margin-top: 0.5rem;
+    box-shadow: -1px 1.3px 1.2px #F49D1A;
+    background: #FFE15D;
+    color: #dc3535;
+    font-weight: 600;
+}
+.button{
+    width: 100%;
+    height: auto;
+    color: #dc3535;
+}
+
+aside{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px dashed #dc3535;
+    border-bottom: 3px dashed #dc3535;
+    color: #dc3535;
+}
+.hashtag{
+    width: 90%;
+}
+.hashtag_title{
+    text-align: justify;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.hashtag_subtitle{
+    text-align: justify;
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-top: -0.5rem;
+}
+
+footer{
+    width: 100vw;
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #dc3535;
+    color: #FFE15D;
+}
+.footer_section{
+    width: 90%;
+    margin-top: 2rem;
+}
+h5{
+    text-align: justify;
+    font-size: 1.15rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 600;
+}
+.us{
+    text-align: justify;
+    font-size: 0.8rem;
+    margin-top: 0;
+}
+.about_title{
+    margin-top: 2.5rem;
+    margin-bottom: 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+.about_para{
+    text-align: justify;
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+    margin-bottom: 2rem;
+}
+.ch{
+    font-weight: 600;
+    font-size: 1rem;
+    color: #FFE15D;
+}
+a{
+    text-decoration: none;
+}
+.brandname{
+    width: 50px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.4rem;
+    color: #FFE15D;
+}
